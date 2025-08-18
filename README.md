@@ -2,6 +2,9 @@
 
 A comprehensive web application for recognizing and learning about Indian monuments using AI-powered image recognition.
 
+## Deployment Server
+https://smart-heritage.netlify.app/
+
 ## 🏛️ Featured Monuments
 
 ### Major Indian Monuments (37 total):
