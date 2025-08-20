@@ -399,7 +399,7 @@ The system recognizes exactly **37 monuments** across these categories:
 
 Your project is now fully configured and ready for:
 - ✅ Local development
-- ✅ Vercel deployment  
+- ✅ Vercel  
 
 All 37 monuments are properly configured with detailed information, and the AI chatbot will provide intelligent responses about each monument's history, architecture, visiting information, and cultural significance.
 
