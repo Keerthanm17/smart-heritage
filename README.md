@@ -1,4 +1,4 @@
-Indian Heritage Monument Recognition System
+# Indian Heritage Monument Recognition System
 
 A comprehensive web application for recognizing and learning about Indian monuments using AI-powered image recognition.
 
